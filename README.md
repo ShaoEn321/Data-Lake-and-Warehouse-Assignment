@@ -77,7 +77,7 @@ Suggested execution order:
 2. Run **Part B Q1** script:
    - `Ang Shao En DLW ASG - Part B Q1_Final.sql`
 3. Run **Part B Q2** script:
-   - `Ang Shao En DLW ASG – Part B Q2_Final Resubmission (1).sql`
+   - `Ang Shao En DLW ASG – Part B Q2_Final.sql`
 
 ---
 
