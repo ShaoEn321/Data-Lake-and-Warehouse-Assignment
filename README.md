@@ -17,7 +17,7 @@ This repository contains my **DLW assignment deliverables** implemented on **Sno
 
 ### SQL Scripts (implementation)
 - `Ang Shao En DLW ASG - Part B Q1_Final.sql`
-- `Ang Shao En DLW ASG – Part B Q2_Final Resubmission (1).sql`
+- `Ang Shao En DLW ASG – Part B Q2_Final.sql`
 
 ---
 
